@@ -1,7 +1,7 @@
 u2fs
 ====
 
-This is light wrapper around Yubico libu2fh server library for server side interaction with yubikeys.
+This is light wrapper around Yubico libu2f-server library for server side interaction with yubikeys.
 
 API
 ==
